@@ -1,7 +1,7 @@
 ### Introduction
 Hey, I'm phoot. 
 
-I'm very interested in Computer Graphics and optimizing programs. I like other things too, like disc golf. Nathan Queen represent! 
+I merged two repositories into online classes, but that deleted 53 documented commits.
 
 ### Statistics
 [![phooten's GitHub stats](https://github-readme-stats.vercel.app/api?username=phooten&theme=gruvbox&hide=stars,prs,issues,contribs )](https://github.com/phooten/github-readme-stats)
