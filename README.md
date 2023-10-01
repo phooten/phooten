@@ -1,9 +1,17 @@
 ### Introduction
-Hey, I'm phoot. 
-
-### Statistics
-[![phooten's GitHub stats](https://github-readme-stats.vercel.app/api?username=phooten&theme=gruvbox&hide=stars,prs,issues,contribs )](https://github.com/phooten/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phooten&layout=compact&theme=gruvbox )](https://github.com/phooten/github-readme-stats)
+Hey, I'm phoot. Currently I'm Embedded Software Developer working for United Launch Alliance in Colorado.
 
 
-( Stat cards created by Anurag Hazra : https://github.com/anuraghazra/github-readme-stats )
+### Repository Overview
+Working Knowledge
+    -> Compilation of general knowledge including: 
+          * profile settings
+          * notes
+          * practice area for coding challenges
+
+Finance:
+    -> Scripts and programs to help keep track of my options trades, performance, and risk management
+    -> Mostly relates to TD Ameritrade ( Charles Schwab ) files and API
+
+Archive:
+    
