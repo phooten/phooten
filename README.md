@@ -1,7 +1,7 @@
 ### Introduction
-Hey, I'm phoot. Currently I'm an Embedded Software Developer working for United Launch Alliance in Colorado.
+Hey, I'm phoot. I'm currently an Embedded Software Engineer based out of Colorado.
 
-I like to program my own projects in my free time. If you're interested in collaborating, I'd love you to reach out!
+I originally got an Electrical Engineering degree, but have found a love for programming. You can find some of my projects below, but I'm mostly working on finance related tools right now. If you're interested in collaborating, please feel free to reach out! I'd really like to help some open source projects.
 
 ### Repository Overview
 Working Knowledge
@@ -13,5 +13,6 @@ Working Knowledge
 Finance:
     -> Scripts and programs to help keep track of my options trades, performance, and risk management
     -> Mostly relates to TD Ameritrade ( Charles Schwab ) files and API
+    -> Converts and tracks paychecks and trade history
 
     
